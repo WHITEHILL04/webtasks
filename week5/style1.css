@@ -1,0 +1,27 @@
+#matrix{
+  display:flex;
+  width:300px;
+  flex-wrap:wrap;
+}
+#matrix input{
+  width:80px;
+  padding:5px;
+  font-size:24px;
+  border-radius: 8px;
+  border-color: black;
+  font-family: verdana;
+}
+#result{
+  font-size:24px;
+  color:red;
+  border:2px solid black;
+  margin-top: 10px;
+  width:175px;
+  border-radius: 6px; 
+}
+#determinant{
+  font-size:24px;
+  color:black;
+  border-radius: 5px;
+  margin-top: 5px;
+}
